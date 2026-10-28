@@ -1,12 +1,12 @@
 {
-  "equipo": "",
-  "integrantes": [],
-  "escenario": "",
-  "usoDeIA": "",
+  "equipo": "Cypress",
+  "integrantes": "Julian Ramirez Espinosa, Juan Jose Gutierrez",
+  "escenario": "Escenario 6",
+  "usoDeIA": "Consultas",
   "minutos": {
-    "instalacion": null,
-    "ca2": null,
-    "ca3": null
+    "instalacion": 20,
+    "ca2": 30,
+    "ca3": 11
   },
   "diagnostico": {
     "diceQueFallo": null,
