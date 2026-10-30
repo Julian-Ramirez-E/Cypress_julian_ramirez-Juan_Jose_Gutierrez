@@ -9,11 +9,11 @@
     "ca3": 11
   },
   "diagnostico": {
-    "diceQueFallo": null,
-    "esperadoYRecibido": null,
-    "lineaDeLaPrueba": null,
-    "capturaOVideo": null,
-    "trazaOInforme": null
+    "diceQueFallo": "La terminal notificó el fallo indicando en rojo 3 failing y 0 passing",
+    "esperadoYRecibido":"Expected to find element: '...', but never found it",
+    "lineaDeLaPrueba": "Expected to find element: '...', but never found it",
+    "capturaOVideo": "screenshots\\duelo.cy.js",
+    "trazaOInforme": true
   },
   "notas": ""
 }

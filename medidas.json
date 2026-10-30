@@ -1,0 +1,61 @@
+{
+  "esquema": 1,
+  "equipo": "Cypress",
+  "herramienta": "cypress",
+  "nombre": "Cypress",
+  "fecha": "2026-10-28T20:52:38.884Z",
+  "entorno": {
+    "node": "v24.21.0",
+    "sistema": "win32 x64"
+  },
+  "corridas": {
+    "total": 5,
+    "completas": 5,
+    "conFallos": 0,
+    "segundos": [
+      13.02,
+      12.95,
+      10.76,
+      13.33,
+      12.74
+    ],
+    "mediana": 12.95,
+    "minimo": 10.76,
+    "maximo": 13.33
+  },
+  "pruebas": {
+    "esperadas": 3,
+    "pasanEnLaUltimaCorrida": 3
+  },
+  "codigo": {
+    "pruebas": 27,
+    "soporte": 11,
+    "total": 38
+  },
+  "paquetes": {
+    "cypress": {
+      "instalada": "16.2.0"
+    }
+  },
+  "autoinforme": {
+    "equipo": "Cypress",
+    "integrantes": "Julian Ramirez Espinosa, Juan Jose Gutierrez",
+    "escenario": "Escenario 6",
+    "usoDeIA": "Consultas",
+    "minutos": {
+      "instalacion": 20,
+      "ca2": 30,
+      "ca3": 11
+    },
+    "diagnostico": {
+      "diceQueFallo": null,
+      "esperadoYRecibido": null,
+      "lineaDeLaPrueba": null,
+      "capturaOVideo": null,
+      "trazaOInforme": null
+    },
+    "notas": "",
+    "puntosDiagnostico": 0,
+    "sinResponder": 5
+  }
+}
